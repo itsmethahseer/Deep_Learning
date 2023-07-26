@@ -12,7 +12,7 @@ The repository contains the following Jupyter notebooks:
 
 2. `Gradient_Descent_&_Neural_network_Implementation.ipynb`: In this notebook, you will dive into the fundamentals of Gradient Descent and implement a basic neural network from scratch.
 
-3. `Practical_workouts.ipynb`: Explore practical exercises and hands-on workouts to reinforce your deep learning skills and knowledge.
+3. `Practical_workouts.ipynb`: it contains Matrices,Activation function and Cost function.
 
 4. `RNN-Next_Word_Prediction.ipynb`: This notebook delves into Recurrent Neural Networks (RNN) and demonstrates the exciting application of next-word prediction using sequential data.
 
